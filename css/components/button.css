@@ -1,0 +1,19 @@
+.btn-book {
+	background-color: #81b214;
+	padding: 20px 20px;
+	border-radius: 4px;
+	color: white;
+	font-weight: bold;
+	font-family: 'Josefin Sans', cursive;
+}
+
+.btn-more {
+	display: block;
+	background-color: #81b214;
+	padding: 10px 10px;
+	border-radius: 4px;
+	color: white;
+	font-weight: bold;
+	font-family: 'Josefin Sans', cursive;
+	margin: auto;
+}
